@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    font-family: 'Inconsolata';
+
+}
+
+.column {
+    border: 2px solid black;
+    width: 33.33%;
+    padding: 10px 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+.card-img {
+    width: 40%;
+}

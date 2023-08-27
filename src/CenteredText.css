@@ -1,0 +1,7 @@
+.centered-container {
+    font-family: 'Inconsolata';
+    display: flex;
+    font-size: 28px;
+    justify-content: center;
+  }
+  
